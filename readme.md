@@ -4,6 +4,7 @@ Este es un proyecto base de Cypress con Cucumber y TypeScript para automatizar p
 Conectado a Cypress cloud para su analisis
 
 **Cypress Cloud**
+
 Cypress Cloud es una plataforma de pruebas en la nube que proporciona un entorno de ejecución escalable y confiable para
 pruebas de automatización. Con Cypress Cloud, los usuarios pueden ejecutar pruebas en múltiples navegadores, versiones
 de navegador y plataformas, y recibir informes de pruebas detallados para ayudar en la solución de problemas.
